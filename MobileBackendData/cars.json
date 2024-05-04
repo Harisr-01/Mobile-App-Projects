@@ -1,0 +1,30 @@
+{
+	"model": "LC500H",
+	"brand": "Lexus",
+	"year": 2018,
+	"engine": "V6",
+	"MPG": 28,
+	"MPH": 155,
+	"HP": 354,
+	"website": "https://www.cars.com/shopping/lexus-lc_500h-2018/"	
+},
+{
+	"model": "GR86",
+	"brand": "Toyota",
+	"year": 2022,
+	"engine": "Flat4",
+	"MPG": 26,
+	"MPH": 145,
+	"HP": 228,
+	"website": "https://www.buyatoyota.com/norcal/vehicles/gr86/2022/index.page"
+},
+{
+	"model": "BMW",
+	"brand": "4Series",
+	"year": 2020,
+	"engine": "Inline4/Inline6",
+	"MPG": 26,
+	"MPH": 155,
+	"HP": 255,
+	"website": "https://www.cargurus.com/Cars/l-Used-2020-BMW-4-Series-c29051"
+}
