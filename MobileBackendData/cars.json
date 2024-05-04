@@ -24,8 +24,8 @@
 			"cimage": "https://raw.githubusercontent.com/Harisr-01/Mobile-App-Projects/main/MobileBackendData/ToyotaGR862022.jpg"
 		},
 		{
-			"cmodel": "BMW",
-			"cbrand": "4Series",
+			"cmodel": "4Series",
+			"cbrand": "BMW",
 			"cyear": "2020",
 			"cengine": "Inline4/Inline6",
 			"cMPG": "26",
