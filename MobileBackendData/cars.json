@@ -11,6 +11,7 @@
 			"cHP": "354",
 			"cwebsite": "https://www.cargurus.com/Cars/l-Used-2018-Lexus-LC-500-RWD-t72798",
 			"cimage": "https://raw.githubusercontent.com/Harisr-01/Mobile-App-Projects/main/MobileBackendData/lc500h.jpeg"
+			"dealership": "13909 ROUTE 50, 20151, Chantilly, VA"
 		},
 		{
 			"cmodel": "GR86",
@@ -22,6 +23,7 @@
 			"cHP": "228",
 			"cwebsite": "https://www.buyatoyota.com/norcal/vehicles/gr86/2022/index.page",
 			"cimage": "https://raw.githubusercontent.com/Harisr-01/Mobile-App-Projects/main/MobileBackendData/ToyotaGR862022.jpg"
+			"dealership": "8566 Sudley Road, Manassas, VA"
 		},
 		{
 			"cmodel": "4Series",
@@ -33,6 +35,7 @@
 			"cHP": "255",
 			"cwebsite": "https://www.cargurus.com/Cars/l-Used-2020-BMW-4-Series-c29051",
 			"cimage": "https://raw.githubusercontent.com/Harisr-01/Mobile-App-Projects/main/MobileBackendData/bmw4series.jpg"
+			"dealership": "Auto World Cir, 21710, Ashburn, VA"
 		}
 	],
 }
